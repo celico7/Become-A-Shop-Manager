@@ -1,4 +1,4 @@
-# UnityGame
+# Become A Shop Manager
 
 Projet universitaire en 2ème année. 
 
